@@ -10,3 +10,9 @@
     height: 44px;
     padding: 10px;
 }
+
+/* Featured Bikes */
+
+.imgGray{
+    filter: grayscale(100%);
+}

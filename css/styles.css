@@ -16,3 +16,10 @@
 .imgGray{
     filter: grayscale(100%);
 }
+ /* Happy Clients */
+ .textClients{
+    color: #E76F51;
+ }
+ .client2Img{
+    width: 67%;
+ }

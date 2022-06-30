@@ -2,6 +2,11 @@
 .bgHonda{
     background-color: #264653;
 }
+.btnLogin{
+    background-color: #E76F51;
+    padding: 10px 24px;
+    border-radius: 5px;
+}
 .textHeader{
     color: #E0E0E0;
 }

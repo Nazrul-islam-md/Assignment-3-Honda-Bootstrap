@@ -21,12 +21,18 @@
 .imgGray{
     filter: grayscale(100%);
 }
+
+/* Latest News */
+.cardRound{
+    border-radius: 10px;
+}
+.latestBike{
+    width: 98%;
+}
+
  /* Happy Clients */
  .textClients{
     color: #E76F51;
- }
- .client2Img{
-    width: 67%;
  }
 
  /* Footer */
